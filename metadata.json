@@ -1,0 +1,6 @@
+{
+  "name": "TripMate",
+  "description": "Group Trip Planning, Budget & Expense Management Platform — Plan Together. Spend Smart. Travel Better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
