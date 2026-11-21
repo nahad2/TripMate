@@ -1,0 +1,40 @@
+# TripMate – Group Trip Planning & Expense Management Platform
+
+## Project Overview
+
+TripMate is a web-based platform designed to simplify group trip planning, budget management, contribution tracking, expense sharing, and financial settlement. It helps friends manage their trips collaboratively while maintaining transparency and accuracy in financial records.
+
+## Key Features
+
+- **User Authentication:** Secure registration, login, and Google Sign-In.
+- **Trip Management:** Create trips, explore public trips, invite members, and manage trip information.
+- **Role-Based Access Control:** Separate permissions for Visitors, Members, Admins, and Owners.
+- **Budget Management:** Track estimated budgets, contributions, expenses, and available funds.
+- **Contribution Tracking:** Support partial, multiple, and additional member contributions.
+- **Expense Management:** Submit, review, approve, and track trip expenses.
+- **Flexible Expense Splitting:** Equal split, custom split, individual expenses, and participation-based splitting.
+- **Personal Payments & Reimbursements:** Track expenses paid personally by members and manage repayments.
+- **Central Group Fund:** Monitor available group money and financial transactions.
+- **TripMate Notepad:** Separate General Notes and Expense Notes for trip-related information.
+- **Admin Panel:** Manage members, permissions, expense approvals, contributions, and trip activities.
+- **Announcements & Notifications:** Share important updates and notify members.
+- **Trip Schedule Planner:** Organize travel plans, activities, dates, and locations.
+- **Final Settlement:** Calculate member-wise balances and outstanding payments.
+- **Reports & Export:** Generate financial reports and export records in PDF and CSV formats.
+- **Activity Logs:** Maintain a history of important actions and financial changes.
+
+## Technology Stack
+
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
+- Database: MySQL
+- Authentication: Google OAuth 2.0
+- Development Tools: Visual Studio Code, XAMPP, Git & GitHub
+
+## Project Objective
+
+The main objective of TripMate is to provide a centralized, user-friendly, and transparent solution for managing group trips. It aims to eliminate confusion in shared expenses, partial contributions, personal payments, reimbursements, and final financial settlement.
+
+## Core Principle
+
+**Plan Together. Travel Together. Manage Money Transparently.**
