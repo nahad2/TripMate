@@ -11,6 +11,15 @@ It provides a centralized workspace where trip members can collaborate, manage f
 
 ---
 
+## 📸 Application Screenshots
+
+### Dashboard
+![TripMate Dashboard](screenshots/dashboard.png)
+
+### Trip Overview
+![Trip Overview](screenshots/trip-overview.png)
+
+
 ## 🌟 Key Features
 
 - **Trip Management** – Create trips, explore public trips, invite members, and manage trip details.
